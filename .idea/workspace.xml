@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="291b6273-c3fc-4d4e-8947-458bb1e26136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gitignore.txt" afterDir="false" />
+    <list default="true" id="291b6273-c3fc-4d4e-8947-458bb1e26136" name="Changes" comment="完成功能">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/BookController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -66,11 +70,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679049994671</updated>
-      <workItem from="1679049995879" duration="538000" />
+      <workItem from="1679049995879" duration="1361000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化项目">
+      <created>1679050601436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679050601436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成功能">
+      <created>1679050732845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679050732845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目" />
+    <MESSAGE value="完成功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成功能" />
   </component>
 </project>
