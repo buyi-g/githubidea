@@ -17,4 +17,9 @@ public class BookController {
         return "hello , spring boot!";
     }
 
+    @GetMapping()
+    public String getAll2(){
+        System.out.println("id ==>");
+        return "hello2";
+    }
 }
