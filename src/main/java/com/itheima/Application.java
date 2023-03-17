@@ -10,6 +10,7 @@ public class Application {
         SpringApplication.run(Application.class, args);
 
         System.out.println("git 1 ");
+        System.out.println("git 2 ");
     }
 
 }
