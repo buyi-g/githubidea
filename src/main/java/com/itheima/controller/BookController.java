@@ -17,4 +17,10 @@ public class BookController {
         return "hello , spring boot!";
     }
 
+    @GetMapping()
+    public String getAll222(){
+        System.out.println("id ==>");
+        return "hello222";
+    }
+
 }
